@@ -47,4 +47,3 @@ public class AttendanceService {
         storageService.saveData(this.attendanceLog, ATTENDANCE_FILE);
     }
 }
-
